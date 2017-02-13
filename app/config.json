@@ -1,0 +1,14 @@
+//Fichero de configuración del framework. (json)
+{
+	"app":{
+		"title":"XFramework",
+		"version":"1.0"
+	},
+	"dbconf":{
+		"driver":"",
+		"dbhost":"",
+		"dbuser":"",
+		"dbname":""
+	}
+
+}
